@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EDL Tracker</string>
+    <string name="title_activity_map">Route Tracking</string>
+    <string name="title_activity_main">EDL Tracker</string>
+
+    <string name="button_send">Go to Map</string>
+    <string name="hello_world">Sync Bluetooth Data</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_bt">Sync Bluetooth</string>
+    <string name="view_stats">View Stats</string>
+    <string name="title_activity_stats">Stats View</string>
+
+    <string name="graph">Altitude Graph</string>
+    <string name="time">Time Elapsed</string>
+    <string name="speed">Avg Speed</string>
+    <string name="distance">Distance</string>
+    <string name="kcal">Kcal</string>
+</resources>
